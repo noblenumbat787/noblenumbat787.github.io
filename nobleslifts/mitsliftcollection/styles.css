@@ -3,40 +3,33 @@
 /* style definitions */
 h1{
 	font-family: Gill Sans;
-	font-weight: normal;
 	font-size: 36;
 }
 h2{
 	font-family: Gill Sans;
-	font-weight: normal;
 	font-size: 28;
 }
 h3{
 	font-family: Gill Sans;
-	font-weight: normal;
 	font-style: italic;
 	font-size: 24;
 }
 
 body,p,ul,ol,li,table{
 	font-family: Gill Sans;
-	font-weight: normal;
 	font-size: 16;
 }
 h4{
 	font-family: Gill Sans;
-	font-weight: normal;
 	font-size: 16;
 }
 h5{
 	font-family: Gill Sans;
-	font-weight: normal;
 	font-style: italic;
 	font-size: 14;
 }
 marquee{
 	font-family: Gill Sans;
-	font-weight: normal;
 	font-size: 12;
 	font-style: italic;
 	background-color: yellow;
